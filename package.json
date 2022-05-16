@@ -1,5 +1,5 @@
 {
-  "name": "@mindtwo/native-enum-js",
+  "name": "@mindtwo/native-enum",
   "version": "0.0.2",
   "description": "An enum package to work with Enums in JS and communicate between our composer package mindtwo/native-enum",
   "main": "index.js",
@@ -15,17 +15,9 @@
     "enum",
     "js"
   ],
-  "author": {
-    "name" : "mindtwo GmbH",
-    "email" : "info@mindtwo.de",
-    "url" : "https://mindtwo.de/"
-  },
+  "author": "mindtwo GmbH <info@mindtwo.de> (https://mindtwo.de/)",
   "contributors": [
-    {
-      "name" : "Andreas Schneider",
-      "email" : "schneider@mindtwo.de",
-      "url" : "https://mindtwo.de/"
-    }
+    "Andreas Schneider <schneider@mindtwo.de> (https://mindtwo.de/)"
   ],
   "license": "ISC",
   "bugs": {
