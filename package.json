@@ -1,5 +1,5 @@
 {
-  "name": "@mindtwo/enum-npm",
+  "name": "@mindtwo/native-enum-js",
   "version": "0.0.2",
   "description": "An enum package to work with Enums in JS and communicate between our composer package mindtwo/native-enum",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mindtwo/enum-npm.git"
+    "url": "git+https://github.com/mindtwo/native-enum-js.git"
   },
   "keywords": [
     "enum",
