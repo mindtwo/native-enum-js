@@ -1,6 +1,6 @@
 {
   "name": "@mindtwo/native-enum",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "An enum package to work with Enums in JS and communicate between our composer package mindtwo/native-enum",
   "main": "index.js",
   "type": "module",
@@ -9,6 +9,7 @@
   },
   "exports": {
     ".": "./index.js",
+    "./src/*": "./src/*.js",
     "./package.json": "./package.json"
   },
   "repository": {
